@@ -47,7 +47,7 @@ ballerina
 bard
 barometer
 baron
-barrister attorney
+barrister attorney advocate
 bassoon
 baton 3
 bauble
@@ -110,7 +110,7 @@ cardiologistt
 carnation
 *carnival 
 carnivore
-*carol hymn chant
+*carol ~= hymn chant
 carrion * carrillon
 caste
 catapult
@@ -129,7 +129,7 @@ centurion
 cerebrum -> cerebral a.
 chalice
 chandelier
-chant
+chant hymnody
 chantey
 *chapel
 charisma
@@ -365,13 +365,13 @@ knoll  ~= oven  <-> pottery carbon
 *knuckle
 
 lagoon
-laity  uninitiated  x  clergy
+laity  uninitiated  x  clergy cleric
 lapidary n. a.
 lasso lariat noose
 latch n.v. bolt
 lattice
 leash  * lash
-lectern  dais
+lectern  dais podium
 ledger
 legerdemain    conjuration
 leprosy
@@ -419,7 +419,7 @@ monastery x nunnery convent ~= cloister
 monograph disquisition
 monomania
 monsoon
-moor
+moor 2 n. v (~ alongside the quay)
 morsel (a ~ of food)
 mortality 2
 mortuary morgue
@@ -468,5 +468,75 @@ orthodontics
 otter
 
 pane
+pantheon
+papyrus
+parabola (object follows the ~)
+parchment
+parley (arrange/sound a ~ with sb)
+parvenu	upstart nouveau-riche
+pastel
+patriarchy <- patriarch x matriarch  * patrician
+patrimony  legacy
+pecan
+pedigree (scrutinize one's ~ and background)
+penicillin
+peninsula (Sinai P~)
+pennant 
+percussion
+peregrination  <- peregrine a. * peripatetic
+petroglyph   petro- * petrol 
+pharmacist <- pharmacology
+phial 
+photosynthesis
+phylogeny
+phylum
+piazza
+pincers nipper
+pitcher
+pitfall
+plank 2  (the party's ~) * prank
+pliers * pincers * pier
+plinth pedestal * pier
+plumbing <- plumb v. plumber
+pneumonia
+pod
+podium lectern dais 
+poetaster 
+poltroon craven recreant
+polyandry * polygamy
+polyglot
+polymath
+poncho  mactintosh ~= cloak
+poniard dagger
+popolace masses public
+porcupine
+porridge
+portraiture portrayal
+posse militia
+potpourri hodgepodge hotchpotch jumble medley
+prank * plank
+precept apothegm adage
+prelate ~= cleric hierarch priest
+prestidigitation  legerdemain conjuration juggle
+proboscis
+progenitor forebear/precursor
+progeny posterity descendant x progenitor
+propinquity (we live in close ~) proximity
+provenance (~ of the word)
+provender provision
+psalmody hymnody anthem chant
+psephology
+psyche
+puberty adolescence teens
+puddle
+pulpit podium lectern
+punctuation (~ mark) * punctilious
+
+quadruped * biped
+quagmire  mire
+quay quayside dock pier
+quintessence essence
+quiver 2  (sound)quaver shiver tremble
+quorum
 
 *safe 2
