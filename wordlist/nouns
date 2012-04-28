@@ -282,7 +282,7 @@ gangrene
 gargoyle
 garland  ~= bouquet
 garret 		loft attic
-*gastronomy 
+*gastronomy  <-> gustation
 gazetteer <-> atlas
 genealogy
 gentry aristocracy patrician nobility
@@ -350,7 +350,7 @@ incubus   nightmare
 indentation   indent n.
 indenture  pact  <- indent 2 vi.  (~ for sth)
 induction 3.  inauguration investiture <- induce 2/ induct
-insignia
+insignia 
 insulin
 iota
 iodine
@@ -360,8 +360,8 @@ jigsaw  (~ puzzle)
 jockey    equestrian rider
 kennel   * kernel
 kleptomania
-*kiln
-knoll  ~= oven  <-> pottery carbon
+*kiln ~= oven  <-> pottery carbon
+knoll  
 *knuckle
 
 lagoon
@@ -373,7 +373,7 @@ lattice
 leash  * lash
 lectern  dais podium
 ledger
-legerdemain    conjuration
+legerdemain    conjuration prestidigitation
 leprosy
 ligature ~= bandage
 limestone
@@ -485,7 +485,7 @@ pennant
 percussion
 peregrination  <- peregrine a. * peripatetic
 petroglyph   petro- * petrol 
-pharmacist <- pharmacology
+pharmacist <- pharmacology -> pharmacopeia (Chinese ~)
 phial 
 photosynthesis
 phylogeny
@@ -515,7 +515,7 @@ portraiture portrayal
 posse militia
 potpourri hodgepodge hotchpotch jumble medley
 prank * plank
-precept apothegm adage
+precept apothegm adage gnome
 prelate ~= cleric hierarch priest
 prestidigitation  legerdemain conjuration juggle
 proboscis
@@ -538,5 +538,29 @@ quay quayside dock pier
 quintessence essence
 quiver 2  (sound)quaver shiver tremble
 quorum
+
+rattlesnake
+ravine gorge gully gulch chasm
+rawhide  * parchment -> tan v. -> leather
+refectory  (school ~) * refractory
+regent
+rendering (one's ~ of Beethoven)
+requiem
+reticulation -> reticule
+rhapsody
+rhubarb
+ringlet 2 curl
+rubble detritus * rubber
+rung  step level
+
+saber * sword
+sandal * scandal
+sapphire * ruby
+sash
+scapegoat
+scoundrel knave ruffian
+screed 
+scuttle 2. n.v.    scutter  n.v.
+serenade
 
 *safe 2
