@@ -278,13 +278,13 @@ gaggle
 gambit (opening ~)
 gamut 2
 gander 2 simpleton
-gangrene
+*gangrene
 gargoyle
 garland  ~= bouquet
 garret 		loft attic
 *gastronomy  <-> gustation
 gazetteer <-> atlas
-genealogy
+genealogy  <-> lineage parentage pedigree
 gentry aristocracy patrician nobility
 geometrician
 gerontology
@@ -307,20 +307,20 @@ grit  * grain
 guillotine
 gulch    gorge valley
 gustation    taste
-gutter trench ditch ~= sewer fosse
+gutter trench ditch ~= sewer fosse * glutton
 gynaecocracy
 
 hangar (~ bay)
 hanger
-harpsichord * harp
+harpsichord * harp * piano
 harridan
-hatchet
+hatchet * hatch
 hawser (steel ~)
 heliotrope
 helot
 hemophilia
 hemorrhage
-hemostat 
+*hemostat 
 hepatitis  <- hepatic
 hilt
 hippopotamus
@@ -328,17 +328,17 @@ histology (human/pathologic ~)
 holograph 2
 holster
 homeopathy x allopathy
-homiletics
+homiletics <- homily
 homograph
 hoof <-> paw
 hoop
 horology
 howler <- howl n.v
-huckster n. vendor monger
+*huckster n. vendor monger
 hunk lump chunk
 hypertension
 hyphen
-hypochondria
+*hypochondria
 hypotenuse
 
 
@@ -348,7 +348,7 @@ imprecation
 incisor
 incubus   nightmare
 indentation   indent n.
-indenture  pact  <- indent 2 vi.  (~ for sth)
+indenture  pact ~= muniments  <- indent 2 vi.  (~ for sth)
 induction 3.  inauguration investiture <- induce 2/ induct
 insignia 
 insulin
@@ -361,8 +361,8 @@ jockey    equestrian rider
 kennel   * kernel
 kleptomania
 *kiln ~= oven  <-> pottery carbon
-knoll  
-*knuckle
+knoll 
+*knuckle ~= joint
 
 lagoon
 laity  uninitiated  x  clergy cleric
@@ -371,13 +371,13 @@ lasso lariat noose
 latch n.v. bolt
 lattice
 leash  * lash
-lectern  dais podium
-ledger
+lectern  dais podium pulpit
+*ledger
 legerdemain    conjuration prestidigitation wizardry
 leprosy
 ligature ~= bandage
 limestone
-litter   rubbish garbage
+litter   	rubbish garbage
 liturgy
 loam  (~ brick)
 lobe 2
@@ -385,84 +385,85 @@ logistics  <- logistic 2
 loon
 lore  (gypsy ~)
 
-madrigal
-maestro virtuoso
+*madrigal
+*maestro virtuoso
 magenta
 magnate  mogul
 magpie
 maize   corn  * maze
 manacle handcuff ~= fetter shackle
-mannequin  2  model
-mantle cloak poncho * mental * mettle
-marionette  puppet dummy
+*mannequin  2  model
+*mantle cloak poncho * mental * mettle
+*marionette  puppet dummy
 marrow  (frozen to the ~)
-mausoleum sepulchre tomb
+*mausoleum sepulchre tomb
 maze 	labyrinth
 mayhem
 measles * leprosy
 megalomania bighead
 memento souvenir
 menthol <-> peppermint mint
-meritorious  commendable praiseworthy laudable creditable <- metrit
+meritorious  commendable praiseworthy laudable creditable <- merit
 metabolism
-metaphysicsbyrinth
-miasma <-> marsh
+metaphysics
+*miasma <-> marsh
 militia
 millinery
-minnow  (the word xxx is a ~)
+minnow
+misnomer (the word xxx is a ~)
 misogamy  <- -gamy  bigamy monogamy exogamy
 misogynist <- gynic a.
 mistral 
 *moat fosse
 mollusk * gristle
 monastery x nunnery convent ~= cloister
-monograph disquisition
+*monograph disquisition
 monomania
 monsoon
 moor 2 n. v (~ alongside the quay)
-morsel (a ~ of food)
+*morsel (a ~ of food)
 mortality 2
 mortuary morgue
-muniments * munition
+*muniments * munition
 mushroom
 
 narcotic tranquilizer
-natation
-necropolis cemetery <->mausoleum sepulchre
+*natation
+necropolis cemetery <-> mausoleum sepulchre <-> obsequies
 nectar <-> ambrosia
-nephritis
+*nephritis
 nestling  <- nestle v.
 nib
 nick  (a ~ on my hand)
-niche (a for sb)
+niche (a ~ for sb)
 niggard skinflint
 nipper
-nonesuch nonepareil n.a.
-noose lariat lasso * nose  * moose
+nonesuch nonpareil n.a.
+*noose lariat lasso * nose  * moose
 numismatician <- numismatic
 nunnery <- nun
 nymph
 
 obelisk
-obsequies obsequial a. * obsequious a. obsequiousness n.
+obsequies  * obsequious a. obsequiousness n.
 octogenarian
 oculist <- ocular
 odometer milometer
-ointmen balm unguent cream * unctuous
-omelet
+ointment balm unguent cream * unctuous
+*omelet
 oncologist oncology
 ontology
-onus (~ upon sb) obligation incumbence
+onus (~ upon sb) obligation incumbency
 operetta
-ophthalmology <- ophthalmus
+ophthalmology <- ophthalmics
 opiate
 optometrist
 opus
 oratorio cantata
 oratory eloquence rhetoric
 orchid
-ordnancea (~ depot/map) armament munition
-orgy bacchanal debauchery  carnival revel 
+ordnance (~ depot/map) armament munition
+*orgy bacchanal debauchery  carnival revel 
 orifice (nasal ~s)
 orthodontics
 otter
@@ -471,51 +472,51 @@ pane
 pantheon
 papyrus
 parabola (object follows the ~)
-parchment
+*parchment
 parley (arrange/sound a ~ with sb)
 parvenu	upstart nouveau-riche
 pastel
 patriarchy <- patriarch x matriarch  * patrician
 patrimony  legacy
 pecan
-pedigree (scrutinize one's ~ and background)
+*pedigree (scrutinize one's ~ and background) lineage parentage bloodline * perigee * pedigree
 penicillin
 peninsula (Sinai P~)
-pennant 
+*pennant  * tenant
 percussion
-peregrination  <- peregrine a. * peripatetic
+*peregrination  <- peregrine a. * peripatetic
 petroglyph   petro- * petrol 
-pharmacist <- pharmacology -> pharmacopeia (Chinese ~)
+pharmacist <- pharmacology -> pharmacopoeia (Chinese ~)
 phial 
 photosynthesis
-phylogeny
+*phylogeny * psephology
 phylum
 piazza
 pincers nipper
-pitcher
+pitcher * pitch
 pitfall
 plank 2  (the party's ~) * prank
 pliers * pincers * pier
-plinth pedestal * pier
+*plinth pedestal * pier
 plumbing <- plumb v. plumber
-pneumonia
+*pneumonia
 pod
-podium lectern dais 
+podium pulpit lectern dais 
 poetaster 
-poltroon craven recreant
+*poltroon craven recreant
 polyandry * polygamy
 polyglot
 polymath
-poncho  mactintosh mantle~= cloak
+poncho  mackintosh mantle~= cloak
 poniard stiletto dagger
-popolace masses public
-porcupine boar swine  -> porcine a.
+populace masses public
+*porcupine boar swine  -> porcine a.
 porridge
 portraiture portrayal
-posse militia
+*posse militia
 potpourri hodgepodge hotchpotch jumble medley
-prank * plank
-precept apothegm adage gnome
+*prank * plank
+*precept apothegm adage gnome
 prelate ~= cleric hierarch priest
 prestidigitation  legerdemain conjuration juggle wizardry * prestigious
 proboscis
@@ -534,7 +535,7 @@ punctuation (~ mark) * punctilious
 
 quadruped * biped
 quagmire  mire
-quay quayside dock pier
+quay quayside dock pier 2
 quintessence essence
 quiver 2  (sound)quaver shiver tremble
 quorum
@@ -551,27 +552,27 @@ rhapsody
 rhubarb
 ringlet 2 curl
 rubble detritus * rubber
-rung  step level
+rung  step level * lung
 
 saber * sword
-*safe 2
+*safe 2 / refrigerator
 sandal * scandal
-sapphire * ruby
-sash
+sapphire * ruby * jade
+*sash
 scapegoat
 scoundrel knave ruffian
-screed 
-scuttle 2. n.v.    scutter  n.v.
-serenade
-Shack 2 n. v. (~ up with sb) shanty cottage hut 
+*screed  * creed
+scuttle 2. n./ v.   scutter  n.v.
+serenade <-> serene
+shack 2 n. v. (~ up with sb) shanty cottage hut 
 shamble waddle dodder totter wobble
 shambles 2 chaos / slaughterhouse
 shanty shack
 shawl scarf cravat
 sheath 
 sheen gloss lustre shine glow
-shibboleth slogan
-shingle
+*shibboleth slogan
+*shingle
 shrew * shrewd
 shroud 2 n. v.
 sill (credit is the ~ of commercial economy) *silk
@@ -580,14 +581,14 @@ simile  * smile  x metaphor
 sinkhole
 sizzler (what a ~)
 skulduggery  subterfuge chicanery
-skunk
-slag dross * lagging * sluggish
+*skunk 2. n. / vt. bilk
+slag dross 		* lagging * sluggish
 sledgehammer
-sleight 2 ruse subterfuge / dexterity 
-sod grass
-solecism gaffe * solicitous
+sleight 2 ruse subterfuge skulduggery/ dexterity
+sod 
+solecism gaffe * solicitous * solict
 soprano
-sow   ~= swine
+sow  2 n. v ~= swine
 spackle  * sparkle
 spangle
 specter phantom apparition spook wraith
@@ -618,7 +619,7 @@ trajectory  (carear ~)
 tranquilizer narcotic sedative
 trapeze
 
-umpire arbitrator adjudicator judge referee * empire
+*umpire arbitrator adjudicator judge referee * empire
 upholstery   * uphold
 usher n. vt. (~ sb out) vi. (the country ~ed in a period of prosperity) 
 
@@ -632,7 +633,7 @@ viola * violin * cello
 weasel
 whelp
 whit (he cares not a ~) * wit
-wick 
+wick * wicked
 wizardry conjuration  prestidigitation  legerdemain juggle
 wraith
 xerophyte
