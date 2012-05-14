@@ -138,7 +138,7 @@ cheetah ~= cougar panther
 chipmunk
 chiromancy palmistry
 chisel
-*chore   * choir
+*chore  (household ~s)  * choir
 chortle
 chromosome
 chronometer <-> horology
@@ -150,14 +150,14 @@ claustrophobia
 clipper
 *cloister monastery nunnery
 *cob 2
-cobbler
+*cobbler
 cocoon
-codicil
-coffer
+*codicil
+*coffer 		safe
 cognomen  epithet byname nickname
-collage
+*collage * college
 colloquy
-coloquium
+colloquium seminar symposium ~= colloquy
 comedienne
 *comestible edible
 complicity
@@ -166,9 +166,9 @@ condiment
 *condor * cordon
 cone
 confection -> confectionary * confession
-conflagration
+*conflagration
 connotation
-consanguinity <- sanguin
+consanguinity lineage parentage pedigree  <- sanguin
 conspectus synopsis summary outline
 cornice
 corpus
@@ -178,28 +178,28 @@ cougar ~= cheetah
 covenant
 crate
 cravat
-crayon  <- cray
+crayon  <- cray ~= pastel
 credo (my ~ for dealing) creed
 croak
 crochet
 crockery  pottery earthenware
 crustacean
-cub 2
-cubicle
+*cub 2 * whelp
+cubicle * cuticle
 cuff 2
 cumulus
 cupidity * cupid
 curd -> curdle v.
 cushion
 cuticle epidermis ~= dermis derma
-cutlery  <- cut
+*cutlery  <- cut
 cygnet
-cynosure
+*cynosure
 cypress
 cytology
 
 dainty n. delicacy a. (~ dress/eater/food)
-denouement
+*denouement
 denizen
 dermatologist
 *diabetes  <-> insulin <->pancreas
@@ -219,17 +219,17 @@ drawbridge
 dredge n. v.
 dreg dross slag
 *drove  herd flock
-dunce dolt dullard
+dunce dolt dullard * dune
 dynamite
 
-ecdysis		molt
+*ecdysis		molt
 eclogue 	idyll pastoral
 effigy 		statuary statue statuette figurine
 electorate
 elixir
 Elysium
 emblem		insignia token 
-emerald 	jade
+emerald 	jade  *  sapphire
 enclave * conclave
 entomology
 entourage 2 retinue/milieu
@@ -237,8 +237,8 @@ environs vicinity suburbs
 esophagus
 estuary (the Thames ~)
 ethnography <- ethnic 
-ethos
-etymology
+*ethos * pathos
+*etymology
 eucalyptus
 exchequer (the Chancellor of the E~) treasury
 
@@ -247,16 +247,16 @@ facet
 *factotum 	servant
 fanfare trumpet
 farrow  (one ~) * fallow
-fascia 2 dashboard 
+*fascia 2 dashboard 
 fauna
 fern
 *fig
 *fillet 2
 flak 2 (take a lot of ~)
-flange
-fannel
-flask flasket carafe
-flatulence
+*flange
+flannel
+flask flasket carafe phial
+flatulence 2
 fleck 2 (a ~ of light) speck/ freckle
 fleece
 flora -> florescence   x fauna
@@ -266,13 +266,13 @@ flunk
 foil  n.2 vt. thwart
 forte * fort
 *fosse moat * fossil
-foyer lobby vertibule anteroom
+foyer lobby vestibule anteroom
 freckle  fleck
 fretwork * fret
 frond <-> fern
 fulcrum pivot
 functionary
-furlough 	sabbatical
+furlough 	sabbatical a.n.
 
 gaggle
 gambit (opening ~)
@@ -284,7 +284,7 @@ garland  ~= bouquet
 garret 		loft attic
 *gastronomy  <-> gustation
 gazetteer <-> atlas
-genealogy  <-> lineage parentage pedigree
+genealogy  <-> lineage parentage pedigree consanguinity
 gentry aristocracy patrician nobility
 geometrician
 gerontology
@@ -475,7 +475,7 @@ parabola (object follows the ~)
 *parchment
 parley (arrange/sound a ~ with sb)
 parvenu	upstart nouveau-riche
-pastel
+pastel ~= crayon
 patriarchy <- patriarch x matriarch  * patrician
 patrimony  legacy
 pecan
@@ -486,6 +486,8 @@ peninsula (Sinai P~)
 percussion
 *peregrination  <- peregrine a. * peripatetic
 petroglyph   petro- * petrol 
+perigee
+periscope
 pharmacist <- pharmacology -> pharmacopoeia (Chinese ~)
 phial 
 photosynthesis
@@ -555,7 +557,7 @@ rubble detritus * rubber
 rung  step level * lung
 
 saber * sword
-*safe 2 / refrigerator
+*safe 2 coffer / refrigerator
 sandal * scandal
 sapphire * ruby * jade
 *sash
@@ -582,7 +584,7 @@ sinkhole
 sizzler (what a ~)
 skulduggery  subterfuge chicanery
 *skunk 2. n. / vt. bilk
-slag dross 		* lagging * sluggish
+*slag dross 		* lagging * sluggish
 sledgehammer
 sleight 2 ruse subterfuge skulduggery/ dexterity
 sod 
@@ -598,11 +600,11 @@ spoor (follow the fox's ~)
 spunk (get one's ~ up) mettle fortitude
 steeple spire
 stenography
-stehoscope
+stethoscope * periscope
 stiletto poniard dagger
 suede
 swine 
-symposium seminar ~= parley
+symposium seminar colloquium ~= parley
 syncopate
 syringe
 
