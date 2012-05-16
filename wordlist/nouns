@@ -1,5 +1,5 @@
 aluminum
-amethyst
+amethyst * sapphire
 amphibian
 anagram
 anatomy
@@ -47,7 +47,7 @@ ballerina
 bard
 barometer
 baron
-barrister attorney advocate
+*barrister attorney advocate
 bassoon
 baton 3
 bauble
@@ -59,29 +59,29 @@ bevy  (a ~ of)
 billow
 bin
 biped
-birch
+*birch
 bivouac
 blouse
-bludgeon
+bludgeon   * burgeon
 bog marshland marsh mire morass quagmire swamp
 bonnet
 botany
 bough
 bougie 2.
-boudoir
+*boudoir
 boulder
-bower
+*bower
 bracelet
 braggadocio
 brink
-*brindle    * bridle
+*brindle   streak stripe  * bridle
 brocade
 brooch
 brunt   (bear the ~ of ...)
 brushwork
-buckle
+*buckle
 bud
-bugaboo
+bugaboo  phantom
 buggy 2
 bulb
 *buff  vt. n. * bluff
@@ -89,13 +89,13 @@ bulb
 bulwark
 
 cactus
-cadaver
+cadaver  corpse
 cadence (the ~ of modern life constantly accelerates) intonation rhythm tone 
 calamity cataclysm catastrophe havoc
 calculus 2
 caldron cauldron
-calibre (his work is of high ~)
-canker v.
+calibre 2 (his work is of high ~)
+canker n.v.
 cannibal cannibalism
 *canto
 cape 2
@@ -104,20 +104,20 @@ capitation * capital * capitol
 *carafe * caress
 *carapace
 *carcinogen <- carcinosis cancer
-cardiologistt
+cardiologist
 *carillon
-*carnage genocide blodbath holocaust massacre
+*carnage 	genocide blodbath holocaust massacre
 carnation
-*carnival 
+*carnival  * carnivore
 carnivore
-*carol ~= hymn chant
-carrion * carrillon
-caste
-catapult
+*carol  hymn chant anthem psalmody
+*carrion * carillon
+caste * cast
+*catapult  * catepillar
 *cataract
 caterpillar
 catharsis -> cathartic
-caucus
+*caucus
 cavalry
 centaur
 *celibate    bachelor
@@ -129,7 +129,7 @@ centurion
 cerebrum -> cerebral a.
 chalice
 chandelier
-chant hymnody
+chant carol hymnody psalmody anthem 
 chantey
 *chapel
 charisma
@@ -148,13 +148,13 @@ circlet
 clapper 2
 claustrophobia
 clipper
-*cloister monastery nunnery
+*cloister monastery nunnery * cloy
 *cob 2
 *cobbler
 cocoon
 *codicil
 *coffer 		safe
-cognomen  epithet byname nickname
+*cognomen  epithet byname nickname
 *collage * college
 colloquy
 colloquium seminar symposium ~= colloquy
@@ -171,7 +171,7 @@ connotation
 consanguinity lineage parentage pedigree  <- sanguin
 conspectus synopsis summary outline
 cornice
-corpus
+*corpus  compilation * corpse
 corpuscle (red ~)
 *cornea
 cougar ~= cheetah
@@ -194,7 +194,7 @@ cushion
 cuticle epidermis ~= dermis derma
 *cutlery  <- cut
 cygnet
-*cynosure
+*cynosure 2
 cypress
 cytology
 
@@ -593,7 +593,7 @@ soprano
 sow  2 n. v ~= swine
 spackle  * sparkle
 spangle
-specter phantom apparition spook wraith
+specter phantom apparition spook wraith bugaboo
 spike 2 (high-heeled shoes)
 spinster
 spoor (follow the fox's ~)

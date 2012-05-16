@@ -1213,8 +1213,8 @@ swerve * depart, deviate, digress, diverge
 swindle
 sybarite
 syllogism 2
-synonymous * synonym
-synopsis *
+synonymous <- synonym
+synopsis -> synoptic 
 tacit taciturn * reticent
 tackle 3 *
 tactile
