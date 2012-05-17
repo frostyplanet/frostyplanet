@@ -50,7 +50,7 @@ baron
 *barrister attorney advocate
 bassoon
 baton 3
-bauble
+bauble  trinket
 bauxite
 beater
 beaver
@@ -110,7 +110,7 @@ cardiologist
 carnation
 *carnival  * carnivore
 carnivore
-*carol  hymn chant anthem psalmody
+*carol  hymn chant anthem psalmody  * carrot
 *carrion * carillon
 caste * cast
 *catapult  * catepillar
@@ -186,7 +186,7 @@ crockery  pottery earthenware
 crustacean
 *cub 2 * whelp
 cubicle * cuticle
-cuff 2
+cuff 2 manacle
 cumulus
 cupidity * cupid
 curd -> curdle v.
@@ -232,7 +232,7 @@ emblem		insignia token
 emerald 	jade  *  sapphire
 enclave * conclave
 entomology
-entourage 2 retinue/milieu
+entourage 2  (the the President and his ~) retinue/milieu
 environs vicinity suburbs
 esophagus
 estuary (the Thames ~)
@@ -244,7 +244,7 @@ exchequer (the Chancellor of the E~) treasury
 
 facade
 facet
-*factotum 	servant
+*factotum   (indoor ~)	servant
 fanfare trumpet
 farrow  (one ~) * fallow
 *fascia 2 dashboard 
@@ -266,7 +266,7 @@ flunk
 foil  n.2 vt. thwart
 forte * fort
 *fosse moat * fossil
-foyer lobby vestibule anteroom
+*foyer lobby vestibule anteroom
 freckle  fleck
 fretwork * fret
 frond <-> fern
@@ -304,7 +304,7 @@ graphite
 gridiron
 gristle
 grit  * grain
-guillotine
+*guillotine
 gulch    gorge valley
 gustation    taste
 gutter trench ditch ~= sewer fosse * glutton
@@ -349,7 +349,7 @@ incisor
 incubus   nightmare
 indentation   indent n.
 indenture  pact ~= muniments  <- indent 2 vi.  (~ for sth)
-induction 3.  inauguration investiture <- induce 2/ induct
+induction 4.  inauguration investiture <- induce 2/ induct
 insignia 
 insulin
 iota
@@ -378,7 +378,7 @@ leprosy
 ligature ~= bandage
 limestone
 litter   	rubbish garbage
-liturgy
+*liturgy
 loam  (~ brick)
 lobe 2
 logistics  <- logistic 2
@@ -391,7 +391,7 @@ magenta
 magnate  mogul
 magpie
 maize   corn  * maze
-manacle handcuff ~= fetter shackle
+*manacle   handcuff ~= fetter shackle
 *mannequin  2  model
 *mantle cloak poncho * mental * mettle
 *marionette  puppet dummy
@@ -414,7 +414,7 @@ misnomer (the word xxx is a ~)
 misogamy  <- -gamy  bigamy monogamy exogamy
 misogynist <- gynic a.
 mistral 
-*moat fosse
+*moat fosse * molt
 mollusk * gristle
 monastery x nunnery convent ~= cloister
 *monograph disquisition
@@ -466,7 +466,7 @@ ordnance (~ depot/map) armament munition
 *orgy bacchanal debauchery  carnival revel 
 orifice (nasal ~s)
 orthodontics
-otter
+otter  * beaver 
 
 pane
 pantheon
@@ -524,9 +524,9 @@ prestidigitation  legerdemain conjuration juggle wizardry * prestigious
 proboscis
 progenitor forebear/precursor
 progeny posterity descendant x progenitor
-propinquity (we live in close ~) proximity
+propinquity (we live in close ~) proximity vicinity
 provenance (~ of the word)
-provender provision
+provender  provision
 psalmody hymnody anthem chant
 psephology
 psyche
@@ -543,14 +543,14 @@ quiver 2  (sound)quaver shiver tremble
 quorum
 
 rattlesnake
-ravine gorge gully gulch chasm
+*ravine gorge gully gulch chasm
 rawhide  * parchment -> tan v. -> leather
 refectory  (school ~) * refractory
 regent
 rendering (one's ~ of Beethoven)
 requiem
 reticulation -> reticule
-rhapsody
+rhapsody  2
 rhubarb
 ringlet 2 curl
 rubble detritus * rubber
@@ -562,7 +562,7 @@ sandal * scandal
 sapphire * ruby * jade
 *sash
 scapegoat
-scoundrel knave ruffian
+scoundrel knave ruffian  * scandal
 *screed  * creed
 scuttle 2. n./ v.   scutter  n.v.
 serenade <-> serene
@@ -584,7 +584,7 @@ sinkhole
 sizzler (what a ~)
 skulduggery  subterfuge chicanery
 *skunk 2. n. / vt. bilk
-*slag dross 		* lagging * sluggish
+*slag 		dross dreg	* lagging * sluggish
 sledgehammer
 sleight 2 ruse subterfuge skulduggery/ dexterity
 sod 
@@ -609,7 +609,7 @@ syncopate
 syringe
 
 tachometer tachgraph
-tare  2 (~ seed/ ~ weight)
+tare  2 (~ seed/ ~ weight) * sod
 tassel
 thatch (~ hat)
 thicket grove bush * ticket
@@ -632,11 +632,11 @@ verdigris patina
 veterinarian
 vintner
 viola * violin * cello 
-weasel
+weasel * measles
 whelp
 whit (he cares not a ~) * wit
 wick * wicked
-wizardry conjuration  prestidigitation  legerdemain juggle
+wizardry conjuration  prestidigitation  legerdemain juggle  -> wizard n.
 wraith
 xerophyte
 yeoman   farmer
