@@ -1410,7 +1410,7 @@ list17
  idyll n. eclogue pastory  
  ignite 2. vt. (Petrol ~s very easily) / (~ the fuse)
  ignominy  n.  (the ~ of defeat) infamy (<- infamous) discredit disrepute
- iliteracy n.
+ illiteracy n. -> illiterate a.
  illuminati n. ~= erudition
  illumination 4  elucidation / lighting  / enlightenment
  illusory a.  -> illusion n. * elusive
@@ -1441,7 +1441,7 @@ list17
  impersonal a. (a large, ~ corporation)
  impersonate vt. 2 mimic / embody
  impertinence 2 n. insolence / irrelevance  -> impertinent a. (it's ~ of a child to lecture grown up)
-*imperturbable a.  (an ~ tranquility)  composed collected unruffled  <- perturb vt. x impetuous  impulsive
+*imperturbable a.  (an ~ tranquility)  composed collected unruffled unflappable <- perturb vt. x impetuous  impulsive
  impervious 2  (an ~ layer of basaltic clay) impereable inpenetrable  imperviable / (He was apparently ~ to the heat)
 *impetuous a. precipitate hasty x imperturbable
  impiety n. (the ~ of people) x devoutness
@@ -1526,7 +1526,7 @@ list18
 *inimical a. (actions that are ~ to our relationship) 
  inimitable a.   * mimic 
 *iniquity  evil x equity
- initiate 3 (~ sb into secret society) / (~ social refrom) -> initiative n.
+ initiate 3 vt. (~ sb into secret society) n. / (~ social refrom) -> initiative n. activeness
 *inkling  n.  (give me some ~ of what's going on)
  innocuous  (a fairly ~ statement)  x nocuous
  inquisitive a. <- inquisition n. ~= inquiry (I was subjected to a lengthy ~ into my marriage)
@@ -1917,7 +1917,7 @@ list23
  original 2
  ornithology n.
  orthodoxy n.
- oscillate 2 vt. (~ between political extremes)
+ oscillate 2 vt. (~ between political extremes) vacillate
  ossify vt.  (Beliefs have ~ied into rigid dogma)
  ostentation a. (the bounder's ~ life showed his inanition)  
  ostracize  vt.  (~d by his colleague)
@@ -2304,7 +2304,7 @@ list27
 *reconnoiter vi. (~ before entering the town)
  reconvene vt.
  rectify v. (~ a mistake)  / (~ water)
-*rectitude n.  probity  righteousness  (He's a man of unquestioned moral ~)
+*rectitude n.  probity  righteousness  (He's a man of unquestioned moral ~) x turpitude
 *recumbent a. (be ~ on thick moss)
  recuperate v. (~ from his operation)
  redeem 2 vt. (~ oneself from failure, ~ my watch) / (~ one's promiss)
@@ -2826,7 +2826,7 @@ list34
  taxonomist n.
  tear 4   n. (a ~ on the wall) / v. dash / n. / vt.
 *tedious a. (a ~ journey) irksome boresome  tiresome
- teeter vi. (she ~d between anger and tears)
+ teeter vi. (she ~d between anger and tears) vacillate * tether
  teetotalism n.
  telling a. (a ~ argument) effective cogent 
  temerity n. (have the ~ to do) audacity
@@ -2860,9 +2860,9 @@ list34
  tickle 2 (she ~d my nose with a feather) (the story ~d her curiosity)
  tiff n. v. (have a ~ with sb)
  tightfisted a.  (a ~ employer) stingy miserly parsimonious penurious
- timeworn a. (a ~ expression)
+ timeworn    a.  (a ~ expression)
  timid a. 
- timorous a. (a ~ voice)
+ timorous a. (a ~ voice) timid
  tinge vt.  (the sky was ~d crimson)  tint
  tinker n. v. (spend hours ~ing with the car)   botch
  tint 2 n.  (a ~ of glamour) v. tinge
@@ -2895,7 +2895,7 @@ list34
 *trepidation n. (cause great ~)  consternation anxiety trepidity
  trespass vt. transgress  / vi.  (~ on one's estate)
  tribute n. (pay ~ to sb)
- trickle v. (tears ~d down her cheeks))
+ trickle v. (tears ~d down her cheeks)
  trite   a.   x contrite
  trivial 2 a.  (a ~ mistake) / (a ~ young man)
  trophy n.
@@ -2905,41 +2905,92 @@ list34
  truce n.  (a three-day ~)
 
 list35
- truculent  strappy
-*turbid  sordid squalid
-*turgid 
-*turquoise 
-*ubiquitous 
-*umbrage 
- unassailable 2
-*uncanny
- uncouth  x couth
- understated
- ungainly  uncouth
- unimpeachable unassailable x impeach 
- unkempt
- unwonted 
- upbraid
- usurp (~ the power/throne) * appropriate
- usury x surly
- vacuous 2
-*vagary  caprice
- valediction * x predilection
- vanquish
- vapid
- varnish
- vaunt 
- venal
-*veneer 
- venerate * revere
- venial
- venom 2 malice
- veracious veracity honest/precision* x voracious
-*verbatim 
-*verdant * (~ lawns) mordant
- versatile
- verse 2
- verve
+ truculent  (become ~ and start arguing) barbarous + belligerent scrappy 
+ trudge v.  (~ a long the deep snow) toil
+ trumpet n. 
+ truncate v.
+ truss n.  strut 
+ tugboat
+ tumbult 2 n. (the demostration broke up in ~) turmoil / (when the ~ within him subside)
+*turbid   a.  (~ flood water) sordid squalid
+ turbulent a. (~ waves)  -> turbulence tumult turmoil
+*turgid    a. (a ~ artical) pompous  flatulent
+ turmoil n.  tumult turbulence
+ turncoat n. traitor
+*turquoise  n.  * jade * sapphire
+*turpitude n. wickedness x rectitude
+ twig 2 n. / v. (I soon ~ged who had told them)
+ typo  n.
+*ubiquitous  a.  (the ~ TV cameras) omnipresent
+*umbrage  n.  (His address gave ~ to the authorities. She tooke ~ at his remarks)
+ unanimous  * plenary
+ unassailable 2 a. (an ~ stronghold) / (an ~ argument)  undisputable unexceptionable unimpeachable > tenable
+*uncanny  a.  (the silence was ~)
+ uncouth  a.  (an ~ young man) crude crass  inelegant x couth
+ unctuous a. 2  (speak in ~ tone) / (make an ~ assurance)
+ underdog  n. (the ~ team scored two surprising goals)  victim loser
+ undergird vt.  x undermine
+ undermine vt.  (~ one's position, cliffs ~ed by the sea)
+*understated a.  (in ~ words / manner / elegance) <-  understate vt. (~ one's feeling / losses) 
+*understudy n.  (~ the role of ...)
+*unexceptionable a. (his ~ conduct) x exceptionable  (~ scenes)
+ unfailing a. 3 (their ~ efforts)
+ unflappable a. (a completely  ~ secretary) imperturbable x impetuous
+ ungainly  a.  uncouth
+ unimpeachable a. (evidence from an ~ source) unassailable x impeach 
+ uninitiated a. (to the ~, economics has always been a dismal science)  -> initiate n.
+ unjustly 	adv.
+ unkempt   	a.     (~ hair)
+ unlettered 	a.  illiterate
+ unpretentious  a.  modest x pretentious
+ unproductive  a.  (~ meeting, ~ land must be reforested)
+ unruly a. (an ~ mob, crowd)
+ untold a. 2  (a man of ~ wealth) /  (the report has yet ~ facts)
+ untoward a.  (~ incidence)  misfortunate
+ unwarranted a.   (an ~ fee, ~ search) / (the result is ~)
+ unwitting a.  (an ~ subject in the experiment)
+ unwonted  a. (~ behavior)  * unwitting
+ unworldly a. 2  (an ~ idealism)
+*upbraid vt.  (~ sb with ingratitude)
+ uphold vt. (~ a verdict / an tradition)
+*usurp vt. (~ the power/throne) * appropriate
+*usury n. * surly
+*utter vt.  2 (never ~ed a word of protest) / a. (an ~ lie, disastar)
+ vacillate vi.  (she ~d between hope and fear) oscillate teeter
+ vacuous 2  (it's ~ in my heart) stupid + inane
+*vagary  n. (the ~ of fashion / weather) caprice  *  wary
+ vagrant a.  (lead a ~ life) / n. -> vagrancy
+ vague a.   (be ~ in/ about one's plan) 
+ vainglorious a.   self-conceited 
+*valediction  n. (bow in ~, utter a ~)  * benediction * predilection
+ valiant     a.  (~ resistance) intrepid valorous
+ valorous    a.  valiant
+ vanity      n.  (injured ~, do sth out of ~) 
+*vanquish   vt.  (~ the enemy in battle) crush subdue subjugate 
+ vapid a.
+ variance  n.  (They're at ~ over the problem)
+ variegation n.
+ varnish n. (a cover of ~) vt. (~ an oil painting) 
+ vault n.
+ vaunt  v.  (~ one's success) boast brag * vanity
+ veer v.  (the car ~ off the road) divert
+ vegetation n. 
+*vehement a. (a ~ urge / desire / patriotism) 
+*venal a.  (~ judges, politicians) * venial
+*veneer n.  (a ~ of friendliness)
+*venerate  vt. (~ the name of sb)  revere worship
+*venial a.  (~ sins) forgivable pardonable   * venal
+ venom 2 n.  poison / bane hatred malice  (speak with ~ in one's voice)
+ ventrue  v. (~ far from home, ~ capital, ~ a small bet on the horse)
+*veracious a.   (he has a reputation for being ~) honest/precision -> veracity * voracious
+*verbatim  a.   (a ~ translation)
+*verdant   a.   (~ lawns) * mordant
+ verisimilar a.  probable
+ veritable a.
+*vernacular n. 
+ versatile a. 2 (a ~ cook, writer, mind, drill) / (a ~ temperament)
+ verse 2 n. / (~ oneself in philosophy)
+ verve n.  (the audience rose to his ~ and wit)
 
 list36
 *veto 
