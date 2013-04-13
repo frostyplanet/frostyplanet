@@ -1,0 +1,29 @@
+--- pythoncomplete.vim	2013-04-13 15:17:18.182568651 +0800
++++ /usr/share/vim/vim73/autoload/pythoncomplete.vim	2013-04-13 15:27:24.249255871 +0800
+@@ -556,7 +556,7 @@
+                 elif token == 'def':
+                     func = self._parsefunction(indent)
+                     if func is None:
+-                        print "function: syntax error..."
++                        #print "function: syntax error..."
+                         continue
+                     dbg("new scope: function")
+                     freshscope = True
+@@ -564,7 +564,7 @@
+                 elif token == 'class':
+                     cls = self._parseclass(indent)
+                     if cls is None:
+-                        print "class: syntax error..."
++                        #print "class: syntax error..."
+                         continue
+                     freshscope = True
+                     dbg("new scope: class")
+@@ -580,7 +580,7 @@
+                 elif token == 'from':
+                     mod, token = self._parsedotname()
+                     if not mod or token != "import":
+-                        print "from: syntax error..."
++                        #print "from: syntax error..."
+                         continue
+                     names = self._parseimportlist()
+                     for name, alias in names:
