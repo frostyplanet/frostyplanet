@@ -8,7 +8,8 @@ set omnifunc=syntaxcomplete#Complete
 set completeopt=longest,menuone
 let g:acp_behaviorPerlOmniLength = 0
 au FileType python setl ts=4 et sw=4 softtabstop=4
-au BufWritePost *.c,*.cpp,*.h,*.py,*.pl,*.pm !ctags --exclude='*.vim' -R . >/dev/null
+
+map <F2>  :!ctags --exclude='*.vim' -R . >/dev/null<CR>
 
 
 colorscheme peachpuff
