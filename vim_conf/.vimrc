@@ -3,6 +3,9 @@ set linebreak
 set nolist
 set modeline
 set sw=4 ts=4
+
+highlight SpellBad cterm=underline ctermbg=black ctermfg=red
+
 filetype plugin indent on
 set omnifunc=syntaxcomplete#Complete
 set completeopt=longest,menuone
@@ -13,8 +16,6 @@ au BufReadPost * :DetectIndent
 
 map <F2>  :!ctags --exclude='*.vim' --exclude='build' --exclude='venv' -R . >/dev/null<CR>
 
-
-colorscheme peachpuff
 
 let g:winManagerWindowLayout = "FileExplorer|TagList"
 map <c-w><c-f> :FirstExplorerWindow<cr>
