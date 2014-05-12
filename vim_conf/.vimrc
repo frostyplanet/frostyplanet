@@ -16,8 +16,6 @@ au BufReadPost * :DetectIndent
 map <F2>  :!ctags --exclude='*.vim' --exclude='build' --exclude='venv' -R . >/dev/null<CR>
 
 
-colorscheme peachpuff
-
 let g:winManagerWindowLayout = "FileExplorer|TagList"
 map <c-w><c-f> :FirstExplorerWindow<cr>
 map <c-w><c-b> :BottomExplorerWindow<cr>
