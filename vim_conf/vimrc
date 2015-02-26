@@ -4,6 +4,10 @@ set nolist
 set modeline
 set sw=4 ts=4
 
+syntax on
+set hls "highlight search
+set lbr "warp long line
+
 highlight SpellBad cterm=underline ctermbg=black ctermfg=red
 au FileType python setl ts=4 et sw=4 softtabstop=4
 au FileType c,cpp setl ts=2 et sw=2 softtabstop=2
