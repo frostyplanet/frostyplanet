@@ -1,23 +1,29 @@
+filetype plugin indent on
 set wrap
 set linebreak
 set nolist
 set modeline
-set sw=4 ts=4
+set ts=4 sw=4 softtabstop=4
+
+"au BufReadPost * :DetectIndent 
 
 syntax on
 set hls "highlight search
-set lbr "warp long line
 
 highlight SpellBad cterm=underline ctermbg=black ctermfg=red
+
 au FileType python setl ts=4 et sw=4 softtabstop=4
 au FileType c,cpp setl ts=2 et sw=2 softtabstop=2
-au FileType go setl ts=4 noet sw=4 softtabstop=4
+au FileType go setl noet sw=4 softtabstop=4 ts=4
 
-filetype plugin indent on
 set omnifunc=syntaxcomplete#Complete
 set completeopt=longest,menuone
 let g:acp_behaviorPerlOmniLength = 0
-au BufReadPost * :DetectIndent 
+let g:indentLine_enabled = 1
+let g:indentLine_char = '┆'
+let g:indentLine_color_term = 2
+
+
 
 map <F2>  :!ctags --exclude='*.vim' --exclude='build' --exclude='venv' -R . >/dev/null<CR>
 let g:tagbar_type_go = {
