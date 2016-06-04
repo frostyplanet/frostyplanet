@@ -5,7 +5,7 @@ set nolist
 set modeline
 set ts=4 sw=4 softtabstop=4
 
-"au BufReadPost * :DetectIndent 
+"au BufReadPost * :DetectIndent
 
 syntax on
 set hls "highlight search
@@ -23,7 +23,8 @@ let g:indentLine_enabled = 1
 let g:indentLine_char = '┆'
 let g:indentLine_color_term = 2
 
-
+" Auto remove tailing space before saving
+autocmd BufWritePre * :%s/\s\+$//e
 
 map <F2>  :!ctags --exclude='*.vim' --exclude='build' --exclude='venv' -R . >/dev/null<CR>
 let g:tagbar_type_go = {
@@ -40,4 +41,4 @@ let g:tagbar_type_go = {
 let g:winManagerWindowLayout = "FileExplorer"
 map <c-w><c-f> :FirstExplorerWindow<cr>
 map <c-w><c-b> :BottomExplorerWindow<cr>
-map <c-w><c-t> :WMToggle<cr> :TagbarToggle<cr> 
+map <c-w><c-t> :WMToggle<cr> :TagbarToggle<cr>
