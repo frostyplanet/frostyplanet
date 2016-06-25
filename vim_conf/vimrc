@@ -13,6 +13,8 @@ set hls "highlight search
 highlight SpellBad cterm=underline ctermbg=black ctermfg=red
 
 au FileType python setl ts=4 et sw=4 softtabstop=4
+au FileType lua setl ts=4 et sw=4 softtabstop=4
+au FileType yaml setl ts=2 et sw=2 softtabstop=2
 au FileType c,cpp setl ts=2 et sw=2 softtabstop=2
 au FileType go setl noet sw=4 softtabstop=4 ts=4
 
