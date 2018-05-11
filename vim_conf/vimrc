@@ -5,7 +5,7 @@ set nolist
 set modeline
 set ts=4 sw=4 softtabstop=4
 
-"au BufReadPost * :DetectIndent
+au BufReadPost * :DetectIndent
 
 syntax on
 set hls "highlight search
@@ -17,6 +17,9 @@ au FileType lua setl ts=4 et sw=4 softtabstop=4
 au FileType yaml setl ts=2 et sw=2 softtabstop=2
 au FileType c,cpp setl ts=2 et sw=2 softtabstop=2
 au FileType go setl noet sw=4 softtabstop=4 ts=4
+au FileType set ft=text
+" disbable conceal set by IndentLine plugin
+au FileType json let g:indentLine_setConceal = 0
 
 set omnifunc=syntaxcomplete#Complete
 set completeopt=longest,menuone
@@ -42,7 +45,9 @@ let g:tagbar_type_go = {
 
 let g:winManagerWindowLayout = "FileExplorer"
 " vim khuno flake8
-let g:khuno_ignore="E501"
+let g:khuno_ignore="E501,E402,E302,W601"
 map <c-w><c-f> :FirstExplorerWindow<cr>
 map <c-w><c-b> :BottomExplorerWindow<cr>
 map <c-w><c-t> :WMToggle<cr> :TagbarToggle<cr>
+
+

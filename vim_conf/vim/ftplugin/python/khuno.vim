@@ -1,0 +1,1 @@
+/usr/share/vim/addons/ftplugin/python/khuno.vim
