@@ -5,7 +5,7 @@ set nolist
 set modeline
 set ts=4 sw=4 softtabstop=4
 
-au BufReadPost * :DetectIndent
+"au BufReadPost * :DetectIndent
 
 syntax on
 set hls "highlight search
@@ -50,4 +50,5 @@ map <c-w><c-f> :FirstExplorerWindow<cr>
 map <c-w><c-b> :BottomExplorerWindow<cr>
 map <c-w><c-t> :WMToggle<cr> :TagbarToggle<cr>
 
-
+" gvim right menu
+:set mousemodel=popup
