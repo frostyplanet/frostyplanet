@@ -1,1 +1,739 @@
-{"patterns":[{"enabled":true,"name":"localhost - Matches the local host optionally prefixed by a user:password authentication string and optionally suffixed by a port number. Note that the entire local subnet (127.0.0.0/8) matches. Pattern exists because \"Do not use this proxy for internal IP addresses\" is checked","pattern":"^https?://(?:[^:@/]+(?::[^@/]+)?@)?(?:localhost|127\\.\\d+\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$","isRegEx":true,"caseSensitive":false,"blackList":true,"multiLine":true},{"enabled":true,"name":"local subnets (IANA reserved address space). Pattern exists because \"Do not use this proxy for internal IP addresses\" is checked","pattern":"^https?://(?:[^:@/]+(?::[^@/]+)?@)?(?:192\\.168\\.\\d+\\.\\d+|10\\.\\d+\\.\\d+\\.\\d+|172\\.(?:1[6789]|2[0-9]|3[01])\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$","isRegEx":true,"caseSensitive":false,"blackList":true,"multiLine":true},{"enabled":true,"name":"local hostnames (usually no dots in the name). Pattern exists because \"Do not use this proxy for internal IP addresses\" is checked","pattern":"^https?://(?:[^:@/]+(?::[^@/]+)?@)?[\\w-]+(?::\\d+)?(?:/.*)?$","isRegEx":true,"caseSensitive":false,"blackList":true,"multiLine":true},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://cdnjs.cloudflare.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*.cloudfront.net/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://sourceforge.net/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://www.sqlite.org/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*google.co*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*.googleapis.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*slideshare.net/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://www.slideshare.net/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*trello.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*.twitter.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*.blogspot.jp/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*speakerdeck.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"google ana","pattern":"*://*.google-analytics.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"aws","pattern":"*://*.amazonaws.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"google user","pattern":"*://*.googleusercontent.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*.uncyclopedia.wikia.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*.facebook.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"blogger.com","pattern":"*://*blogger.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*tk.wsjemail.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*.wsj.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*nytimes.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://assets-cdn.github.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*cnn.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"gstatic","pattern":"*://*.gstatic.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*.blogspot.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*golang.org/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*www.webupd8.org/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*www.v2ex.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*reuters.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*bloomberg.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*google-analytics.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*bgp.he.net/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*.thestylecon.net/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*wikipedia.org/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*chinese.engadget.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*edolo39600.pixnet.net/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*deviantart.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*.tw/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*www.mingpaocanada.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*libgen.org/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"instagram","pattern":"http*://instagram.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*.pinsta.me/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*www.haproxy.org/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*wordpress.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false},{"enabled":true,"name":"Dynamic QuickAdd Pattern","pattern":"*://*pastebin.com/*","isRegEx":false,"caseSensitive":false,"blackList":false,"multiLine":false}]}
+{
+  "mode": "patterns",
+  "proxySettings": [
+    {
+      "address": "127.0.0.1",
+      "port": 8080,
+      "username": "",
+      "password": "",
+      "type": 1,
+      "title": "127.0.0.1:8080",
+      "color": "#0055E5",
+      "active": true,
+      "whitePatterns": [
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "cdnjs.cloudflare.com",
+          "importedPattern": "*://cdnjs.cloudflare.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.cloudfront.net",
+          "importedPattern": "*://*.cloudfront.net/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "sourceforge.net",
+          "importedPattern": "*://sourceforge.net/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "www.sqlite.org",
+          "importedPattern": "*://www.sqlite.org/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*google.co*",
+          "importedPattern": "*://*google.co*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.googleapis.com",
+          "importedPattern": "*://*.googleapis.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*slideshare.net",
+          "importedPattern": "*://*slideshare.net/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "www.slideshare.net",
+          "importedPattern": "*://www.slideshare.net/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": false,
+          "pattern": "*trello.com",
+          "importedPattern": "*://*trello.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.twitter.com",
+          "importedPattern": "*://*.twitter.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.blogspot.jp",
+          "importedPattern": "*://*.blogspot.jp/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*speakerdeck.com",
+          "importedPattern": "*://*speakerdeck.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "google ana",
+          "active": true,
+          "pattern": "*.google-analytics.com",
+          "importedPattern": "*://*.google-analytics.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "aws",
+          "active": true,
+          "pattern": "*.amazonaws.com",
+          "importedPattern": "*://*.amazonaws.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "google user",
+          "active": true,
+          "pattern": "*.googleusercontent.com",
+          "importedPattern": "*://*.googleusercontent.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.uncyclopedia.wikia.com",
+          "importedPattern": "*://*.uncyclopedia.wikia.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.facebook.com",
+          "importedPattern": "*://*.facebook.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "blogger.com",
+          "active": true,
+          "pattern": "*blogger.com",
+          "importedPattern": "*://*blogger.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*tk.wsjemail.com",
+          "importedPattern": "*://*tk.wsjemail.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.wsj.com",
+          "importedPattern": "*://*.wsj.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*nytimes.com",
+          "importedPattern": "*://*nytimes.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "assets-cdn.github.com",
+          "importedPattern": "*://assets-cdn.github.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*cnn.com",
+          "importedPattern": "*://*cnn.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "gstatic",
+          "active": true,
+          "pattern": "*.gstatic.com",
+          "importedPattern": "*://*.gstatic.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.blogspot.com",
+          "importedPattern": "*://*.blogspot.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*golang.org",
+          "importedPattern": "*://*golang.org/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*www.webupd8.org",
+          "importedPattern": "*://*www.webupd8.org/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*www.v2ex.com",
+          "importedPattern": "*://*www.v2ex.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*reuters.com",
+          "importedPattern": "*://*reuters.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*bloomberg.com",
+          "importedPattern": "*://*bloomberg.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*google-analytics.com",
+          "importedPattern": "*://*google-analytics.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*bgp.he.net",
+          "importedPattern": "*://*bgp.he.net/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.thestylecon.net",
+          "importedPattern": "*://*.thestylecon.net/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*wikipedia.org",
+          "importedPattern": "*://*wikipedia.org/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*chinese.engadget.com",
+          "importedPattern": "*://*chinese.engadget.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*edolo39600.pixnet.net",
+          "importedPattern": "*://*edolo39600.pixnet.net/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*deviantart.com",
+          "importedPattern": "*://*deviantart.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.tw",
+          "importedPattern": "*://*.tw/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*www.mingpaocanada.com",
+          "importedPattern": "*://*www.mingpaocanada.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*libgen.org",
+          "importedPattern": "*://*libgen.org/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "instagram",
+          "active": true,
+          "pattern": "http*:",
+          "importedPattern": "http*://instagram.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.pinsta.me",
+          "importedPattern": "*://*.pinsta.me/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*www.haproxy.org",
+          "importedPattern": "*://*www.haproxy.org/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*wordpress.com",
+          "importedPattern": "*://*wordpress.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*pastebin.com",
+          "importedPattern": "*://*pastebin.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "flask.pocoo.org",
+          "importedPattern": "*://flask.pocoo.org/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "www.comefromchina.com",
+          "importedPattern": "*://www.comefromchina.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "gist.github.com",
+          "active": true,
+          "pattern": "https?:",
+          "importedPattern": "https?://gist.github.com*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "www.openvpn.net",
+          "importedPattern": "*://www.openvpn.net/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "twitter.com",
+          "importedPattern": "*://twitter.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "https?:",
+          "importedPattern": "https?://*instagram.com",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*chinatimes.com",
+          "importedPattern": "*://*chinatimes.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.nextmedia.com",
+          "importedPattern": "*://*.nextmedia.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "stackoverflow.com",
+          "importedPattern": "*://stackoverflow.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "the-sun.on.cc",
+          "importedPattern": "*://the-sun.on.cc/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "gist.github.com",
+          "importedPattern": "*://gist.github.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "github.com",
+          "importedPattern": "*://github.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*pinterest.com",
+          "importedPattern": "*://*pinterest.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "www.youtube.com",
+          "importedPattern": "*://www.youtube.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "www.instagram.com",
+          "importedPattern": "*://www.instagram.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*.tumblr.com",
+          "importedPattern": "*://*.tumblr.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "www.bbc.com",
+          "importedPattern": "*://www.bbc.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "askubuntu.com",
+          "importedPattern": "*://askubuntu.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "hub.docker.com",
+          "importedPattern": "*://hub.docker.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "www.pictaram.com",
+          "importedPattern": "*://www.pictaram.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "www.ft.com",
+          "importedPattern": "*://www.ft.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "pinimg",
+          "active": true,
+          "pattern": "*.pinimg.com",
+          "importedPattern": "*://*.pinimg.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "*myfonts.net",
+          "importedPattern": "http://*myfonts.net/",
+          "type": 1,
+          "protocols": 2
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "www.economist.com",
+          "importedPattern": "*://www.economist.com/*",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "Dynamic QuickAdd Pattern",
+          "active": true,
+          "pattern": "http?:",
+          "importedPattern": "http?://*.picgrum.com",
+          "type": 1,
+          "protocols": 1
+        },
+        {
+          "title": "",
+          "active": true,
+          "pattern": "*reddit.com",
+          "type": 1,
+          "protocols": 1
+        }
+      ],
+      "blackPatterns": [
+        {
+          "title": "localhost - Matches the local host optionally prefixed by a user:password authentication string and optionally suffixed by a port number. Note that the entire local subnet (127.0.0.0/8) matches. Pattern exists because \"Do not use this proxy for internal IP addresses\" is checked",
+          "active": true,
+          "pattern": "^https?://(?:[^:@/]+(?::[^@/]+)?@)?(?:localhost|127\\.\\d+\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$",
+          "importedPattern": "^https?://(?:[^:@/]+(?::[^@/]+)?@)?(?:localhost|127\\.\\d+\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$",
+          "type": 2,
+          "protocols": 1
+        },
+        {
+          "title": "local subnets (IANA reserved address space). Pattern exists because \"Do not use this proxy for internal IP addresses\" is checked",
+          "active": true,
+          "pattern": "^https?://(?:[^:@/]+(?::[^@/]+)?@)?(?:192\\.168\\.\\d+\\.\\d+|10\\.\\d+\\.\\d+\\.\\d+|172\\.(?:1[6789]|2[0-9]|3[01])\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$",
+          "importedPattern": "^https?://(?:[^:@/]+(?::[^@/]+)?@)?(?:192\\.168\\.\\d+\\.\\d+|10\\.\\d+\\.\\d+\\.\\d+|172\\.(?:1[6789]|2[0-9]|3[01])\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$",
+          "type": 2,
+          "protocols": 1
+        },
+        {
+          "title": "local hostnames (usually no dots in the name). Pattern exists because \"Do not use this proxy for internal IP addresses\" is checked",
+          "active": true,
+          "pattern": "^https?://(?:[^:@/]+(?::[^@/]+)?@)?[\\w-]+(?::\\d+)?(?:/.*)?$",
+          "importedPattern": "^https?://(?:[^:@/]+(?::[^@/]+)?@)?[\\w-]+(?::\\d+)?(?:/.*)?$",
+          "type": 2,
+          "protocols": 1
+        },
+        {
+          "title": "local hostnames (usually no dots in the name). Pattern exists because 'Do not use this proxy for localhost and intranet/private IP addresses' is checked.",
+          "active": true,
+          "pattern": "^(?:[^:@/]+(?::[^@/]+)?@)?(?:localhost|127\\.\\d+\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$",
+          "type": 2,
+          "protocols": 1
+        },
+        {
+          "title": "local subnets (IANA reserved address space). Pattern exists because 'Do not use this proxy for localhost and intranet/private IP addresses' is checked.",
+          "active": true,
+          "pattern": "^(?:[^:@/]+(?::[^@/]+)?@)?(?:192\\.168\\.\\d+\\.\\d+|10\\.\\d+\\.\\d+\\.\\d+|172\\.(?:1[6789]|2[0-9]|3[01])\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$",
+          "type": 2,
+          "protocols": 1
+        },
+        {
+          "title": "localhost - matches the local host optionally prefixed by a user:password authentication string and optionally suffixed by a port number. The entire local subnet (127.0.0.0/8) matches. Pattern exists because 'Do not use this proxy for localhost and intranet/private IP addresses' is checked.",
+          "active": true,
+          "pattern": "^(?:[^:@/]+(?::[^@/]+)?@)?[\\w-]+(?::\\d+)?(?:/.*)?$",
+          "type": 2,
+          "protocols": 1
+        },
+        {
+          "title": "local hostnames (usually no dots in the name). Pattern exists because 'Do not use this proxy for localhost and intranet/private IP addresses' is checked.",
+          "active": true,
+          "pattern": "^(?:[^:@/]+(?::[^@/]+)?@)?(?:localhost|127\\.\\d+\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$",
+          "type": 2,
+          "protocols": 1
+        },
+        {
+          "title": "local subnets (IANA reserved address space). Pattern exists because 'Do not use this proxy for localhost and intranet/private IP addresses' is checked.",
+          "active": true,
+          "pattern": "^(?:[^:@/]+(?::[^@/]+)?@)?(?:192\\.168\\.\\d+\\.\\d+|10\\.\\d+\\.\\d+\\.\\d+|172\\.(?:1[6789]|2[0-9]|3[01])\\.\\d+\\.\\d+)(?::\\d+)?(?:/.*)?$",
+          "type": 2,
+          "protocols": 1
+        },
+        {
+          "title": "localhost - matches the local host optionally prefixed by a user:password authentication string and optionally suffixed by a port number. The entire local subnet (127.0.0.0/8) matches. Pattern exists because 'Do not use this proxy for localhost and intranet/private IP addresses' is checked.",
+          "active": true,
+          "pattern": "^(?:[^:@/]+(?::[^@/]+)?@)?[\\w-]+(?::\\d+)?(?:/.*)?$",
+          "type": 2,
+          "protocols": 1
+        }
+      ],
+      "id": "import-2233763639"
+    },
+    {
+      "address": "127.0.0.1",
+      "port": 9002,
+      "username": "",
+      "password": "",
+      "type": 3,
+      "proxyDNS": true,
+      "title": "127.0.0.1:9002",
+      "color": "#0055E5",
+      "active": true,
+      "whitePatterns": [
+        {
+          "title": "pek3",
+          "active": true,
+          "pattern": "*198.18.51.*",
+          "importedPattern": "*198.18.51.*",
+          "type": 1,
+          "protocols": 1
+        }
+      ],
+      "blackPatterns": [],
+      "id": "import-2307705697"
+    },
+    {
+      "address": "127.0.0.1",
+      "port": 9003,
+      "username": "",
+      "password": "",
+      "type": 3,
+      "proxyDNS": true,
+      "title": "127.0.0.1:9003",
+      "color": "#0055E5",
+      "active": true,
+      "whitePatterns": [],
+      "blackPatterns": [],
+      "id": "import-2643504379"
+    },
+    {
+      "address": "127.0.0.1",
+      "port": 8006,
+      "username": "",
+      "password": "",
+      "type": 3,
+      "proxyDNS": true,
+      "title": "127.0.0.1:8006",
+      "color": "#0055E5",
+      "active": true,
+      "whitePatterns": [],
+      "blackPatterns": [],
+      "id": "import-1155905734"
+    },
+    {
+      "address": "192.168.180.135",
+      "port": 808,
+      "username": "",
+      "password": "",
+      "type": 1,
+      "title": "192.168.108.135:808",
+      "color": "#0055E5",
+      "active": true,
+      "whitePatterns": [],
+      "blackPatterns": [],
+      "id": "import-4277313577"
+    },
+    {
+      "type": 5,
+      "title": "Default",
+      "color": "#0055E5",
+      "active": true,
+      "whitePatterns": [
+        {
+          "title": "All",
+          "active": true,
+          "pattern": "*",
+          "importedPattern": "*",
+          "type": 1,
+          "protocols": 1
+        }
+      ],
+      "blackPatterns": [],
+      "id": "k20d21508277536715"
+    }
+  ],
+  "logging": {
+    "active": true,
+    "maxSize": 500
+  }
+}
