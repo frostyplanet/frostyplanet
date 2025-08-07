@@ -31,7 +31,7 @@ let g:indentLine_color_term = 2
 " Auto remove tailing space before saving
 autocmd BufWritePre * :%s/\s\+$//e
 
-map <F2>  :!ctags --exclude='*.vim' --exclude='build' --exclude='venv' -R . >/dev/null<CR>
+map <F2>  :!ctags --exclude='*.vim' --exclude='build' --exclude='venv' --exclude='target'  -R . >/dev/null<CR>
 let g:tagbar_type_go = {
     \ 'ctagstype': 'go',
     \ 'kinds' : [
